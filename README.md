@@ -1,7 +1,6 @@
-### Hi there 👋
-
+# Hi there 👋
 <!--
-**birdx0810/birdx0810** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**d9n13lt4n/d9n13lt4n** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -14,3 +13,24 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## 4b0ut M3
+<!-- - 🔭 I’m currently working on Time Series GANs and Membership Inference Attacks. -->
+- 🌱 I'm currently a SRE/MIS at Finger Games Int. Ltd. Co. 
+- ⚡ Fun fact: I play 🏓, like 📷, and I play 🎸 during my spare time.
+- 📫 How to reach me: d9n13lt4n [at] gmail.com
+- 🚩 Other accounts: 
+  - [Kaggle](https://www.kaggle.com/d9n13lt4n)
+  - [LeetCode](https://leetcode.com/d9n13lt4n/)
+
+### 3duc4t10n
+- M.S. in Medical Informatics, National Cheng Kung University (dropout)
+- B.S. in Information Management, National University of Kaohsiung
+
+### W0rk
+| Date | Position |
+| - | - |
+| '22 Apr - | SRE @ Finger Game Int. Ltd. Co. |
+| '19 Sept - '20 Aug | Network Manager @ NCKU IKMLAB |
+| '19 Mar - June | Assistant MIS @ Finger Game Int. Ltd. Co. |
+| '17 Sept - '18 Aug | Network Administrator @ NUKIM |
