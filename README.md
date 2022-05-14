@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 
 ## 4b0ut M3
 <!-- - 🔭 I’m currently working on Time Series GANs and Membership Inference Attacks. -->
-- 🌱 I'm currently a SRE/MIS at Finger Games Int. Ltd. Co. 
+- 🌱 I'm currently a SRE/MIS at Finger Game Int. Ltd. Co. 
 - ⚡ Fun fact: I play 🏓, like 📷, and I play 🎸 during my spare time.
 - 📫 How to reach me: d9n13lt4n [at] gmail.com
 - 🚩 Other accounts: 
