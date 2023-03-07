@@ -14,6 +14,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+[![status](https://badge.stateful.com/birdx0810/status.svg)](Status for @birdx0810)
+
 ## 4b0ut M3
 <!-- - 🔭 I’m currently working on Time Series GANs and Membership Inference Attacks. -->
 - 🌱 I'm currently a SRE/MIS at Finger Game Int. Ltd. Co. 
