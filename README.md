@@ -14,11 +14,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=d3lt4msc&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
+
 ![status](https://badge.stateful.com/birdx0810/status.svg)
 
 ## 4b0ut M3
 <!-- - 🔭 I’m currently working on Time Series GANs and Membership Inference Attacks. -->
-- 🌱 I'm currently a SRE/MIS at Finger Game Int. Ltd. Co. 
+- 🌱 I'm currently a SRE/Data Engineer at Finger Game Int. Ltd. Co. 
 - ⚡ Fun fact: I like 📷, playing 🏓 or 🎸 during my spare time.
 <!-- 
 - 📫 How to reach me: d9n13lt4n [at] gmail.com
