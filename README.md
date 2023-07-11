@@ -42,4 +42,6 @@ Here are some ideas to get you started:
 | '17 Sept - '18 Aug | Network Administrator @ NUKIM |
 
 
-<figure><embed src="https://wakatime.com/share/@0ff083f4-27b1-453f-b526-2d1f4c73b942/5a2e8a4a-261e-42d3-91e7-356566340cc0.svg"></embed></figure>
+<p>
+  <img src="https://wakatime.com/share/@0ff083f4-27b1-453f-b526-2d1f4c73b942/5a2e8a4a-261e-42d3-91e7-356566340cc0.svg" height=480 width=1080>
+</p>
