@@ -36,7 +36,7 @@ Here are some ideas to get you started:
 ### W0rk
 | Date | Position |
 | - | - |
-| '22 Apr - | SRE @ Finger Game Int. Ltd. Co. |
+| '22 Apr - | SRE & Data Engineer @ Finger Game Int. Ltd. Co. |
 | '19 Sept - '20 Aug | Network Manager @ NCKU IKMLAB |
 | '19 Mar - June | Assistant MIS @ Finger Game Int. Ltd. Co. |
 | '17 Sept - '18 Aug | Network Administrator @ NUKIM |
